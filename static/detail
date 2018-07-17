@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "msg": "请求成功",
+    "data": {
+        "code": "2018019",
+        "name": "双色球",
+        "date": "2018-02-13(二)",
+        "week": "二",
+        "red": "03,11,12,16,21,23",
+        "blue": "09",
+        "sales": "353382992",
+        "poolmoney": "423300648",
+        "content": "北京2注,河北1注,黑龙江1注,江苏1注,浙江1注,山东1注,广西1注,共8注。",
+        "prizegrades": [
+            {
+                "pid": 1,
+                "code": "2018019",
+                "type": 1,
+                "typenum": 8,
+                "typemoney": "6663708"
+            },
+            {
+                "pid": 2,
+                "code": "2018019",
+                "type": 2,
+                "typenum": 80,
+                "typemoney": "207963"
+            },
+            {
+                "pid": 3,
+                "code": "2018019",
+                "type": 3,
+                "typenum": 1677,
+                "typemoney": "3000"
+            },
+            {
+                "pid": 4,
+                "code": "2018019",
+                "type": 4,
+                "typenum": 75265,
+                "typemoney": "200"
+            },
+            {
+                "pid": 5,
+                "code": "2018019",
+                "type": 5,
+                "typenum": 1303129,
+                "typemoney": "10"
+            },
+            {
+                "pid": 6,
+                "code": "2018019",
+                "type": 6,
+                "typenum": 14698811,
+                "typemoney": "5"
+            }
+        ]
+    }
+}

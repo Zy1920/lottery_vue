@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "msg": "请求成功",
+    "data": {
+       "uid":"B5D4DE4576784C4AAFB5593ED59369C6",
+       "email":"18715096913@163.com",
+       "password":"123",
+       "mobile":"110",
+       "username":"郭大大",
+       "money":"1024"
+    }
+}

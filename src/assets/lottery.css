@@ -1,0 +1,76 @@
+html,body,h1,h2,h3,h4,h5,h6,div,dl,dt,dd,ul,ol,li,p,blockquote,pre,hr,figure,table,caption,th,td,form,fieldset,legend,input,button,textarea,menu
+{margin:0;padding:0;}
+
+
+.title {
+	height: 55px;
+	line-height: 55px;
+	color: rgba(16, 16, 16, 1);
+	background-color: gainsboro;
+	font-size: 18px;
+	text-align: center;
+	font-family: Microsoft Yahei;
+}
+
+.ball-item {
+	width: 31px;
+	height: 31px;
+	line-height: 31px;
+	font-size: 14px;
+	text-align: center;
+	font-family: Roboto;
+	border: 1px solid rgba(187, 187, 187, 1);
+	border-radius: 100%;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.ball-red {
+	color: red;
+}
+
+.ball-red-selected {
+	background-color: rgba(255, 0, 0, 0.5);
+	color: white;
+	font-weight: bold;
+}
+
+.ball-blue {
+	color: blue;
+}
+
+.ball-blue-selected {
+	background-color: rgba(0, 0, 255, 0.5);
+	color: white;
+	font-weight: bold;
+}
+
+.menu {
+	background-color: gainsboro;
+	padding-top: 5px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.menu-item {
+	text-align: center;
+}
+
+.menu-item-activied {
+	color: red;
+}
+
+.col-xs-ball {
+	width: 12.5%;
+	float: left;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.cart-item {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid #E5E5E5;
+}
