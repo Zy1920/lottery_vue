@@ -36,7 +36,7 @@
                 this.$router.push("/")
                 break
               case "2":
-                //跳转去选号页面
+                this.$router.push("/select")
                 break
               case "3":
                 //跳转去个人页面
