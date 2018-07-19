@@ -71,7 +71,7 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 
 - #### axios发送异步请求axios，查询history数据####
 
-  - #### 安装####
+  - 安装
 
   ```
   npm install axios
@@ -136,7 +136,9 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 
 ### 4.用户页面
 
-#### Vuex的使用——用于非父子组件之间的数据传递共享
+#### Vuex的使用
+
+——用于非父子组件之间的数据传递共享
 
 https://vuex.vuejs.org/zh/
 
@@ -198,7 +200,7 @@ import {mapActions,mapGetters} from 'vuex'
 	...mapActions(['对应action的名字'])
 ```
 
-### vuex总结
+vuex总结
 
 vuex主要用于管理数据，方便vue的渲染
 
